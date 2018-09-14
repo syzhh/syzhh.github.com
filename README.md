@@ -5,6 +5,8 @@
 > **服务批发市场 为渠道而生** 
 > 东北地区电子商务定制开发领导产品，批发市场量身定制。
 
+**[浏览][1]**  **[官网][2]**  **[咨询][3]**
+
 ### [渠道订货 + 电商平台](https://www.34xian.com/)
 
 > * 批发商（厂商） 订货管理系统 
@@ -36,13 +38,13 @@
 
 ### [特色功能](https://www.34xian.com/)
 ### 1. 产品库
-![产品库][1]
+![产品库][4]
 ### 2. 云采
- ![云采][2]
+ ![云采][5]
 ### 3. 阶梯报价
- ![阶梯报价][3]
+ ![阶梯报价][6]
  
- ![1][4]![2][5]![3][6]![4][7]![5][8]![6][9]![7][10]![8][11]
+ ![1][7]![2][8]![3][9]![4][10]![5][11]![6][12]![7][13]![8][14]
  
 - [x] 商城式订货体验
 - [x] 权限灵活，内外角色精准管理
@@ -57,44 +59,25 @@
 
 ### [功能模块概述](https://www.34xian.com/)
 
-![1][12]
-![2][13]
-![3][14]
+![1][15]
+![2][16]
+![3][17]
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  [1]: https://www.sytm.net/Templets/shop2/img/bg7_1.png
-  [2]: https://www.sytm.net/Templets/shop2/img/bg7_2.png
-  [3]: https://www.sytm.net/Templets/shop2/img/bg7_3.png
-  [4]: https://www.sytm.net/Templets/shop2/img/bg7_01.png
-  [5]: https://www.sytm.net/Templets/shop2/img/bg7_02.png
-  [6]: https://www.sytm.net/Templets/shop2/img/bg7_03.png
-  [7]: https://www.sytm.net/Templets/shop2/img/bg7_04.png
-  [8]: https://www.sytm.net/Templets/shop2/img/bg7_05.png
-  [9]: https://www.sytm.net/Templets/shop2/img/bg7_06.png
-  [10]: https://www.sytm.net/Templets/shop2/img/bg7_07.png
-  [11]: https://www.sytm.net/Templets/shop2/img/bg7_08.png
-  [12]: https://www.sytm.net/Templets/shop2/img/bg8_1.png
-  [13]: https://www.sytm.net/Templets/shop2/img/bg8_2.png
-  [14]: https://www.sytm.net/Templets/shop2/img/bg8_3.png
-  [15]: https://www.sytm.net/Templets/shop2/img/bg7_04.png
-  [16]: https://www.sytm.net/Templets/shop2/img/bg7_05.png
-  [17]: https://www.sytm.net/Templets/shop2/img/bg7_06.png
-  [18]: https://www.sytm.net/Templets/shop2/img/bg7_07.png
+  [1]: https://www.34xian.com/
+  [2]: https://www.sytm.net/jiejuefangan/
+  [3]: https://www.sytm.net/jiejuefangan/Contact.html
+  [4]: https://www.sytm.net/Templets/shop2/img/bg7_1.png
+  [5]: https://www.sytm.net/Templets/shop2/img/bg7_2.png
+  [6]: https://www.sytm.net/Templets/shop2/img/bg7_3.png
+  [7]: https://www.sytm.net/Templets/shop2/img/bg7_01.png
+  [8]: https://www.sytm.net/Templets/shop2/img/bg7_02.png
+  [9]: https://www.sytm.net/Templets/shop2/img/bg7_03.png
+  [10]: https://www.sytm.net/Templets/shop2/img/bg7_04.png
+  [11]: https://www.sytm.net/Templets/shop2/img/bg7_05.png
+  [12]: https://www.sytm.net/Templets/shop2/img/bg7_06.png
+  [13]: https://www.sytm.net/Templets/shop2/img/bg7_07.png
+  [14]: https://www.sytm.net/Templets/shop2/img/bg7_08.png
+  [15]: https://www.sytm.net/Templets/shop2/img/bg8_1.png
+  [16]: https://www.sytm.net/Templets/shop2/img/bg8_2.png
+  [17]: https://www.sytm.net/Templets/shop2/img/bg8_3.png
